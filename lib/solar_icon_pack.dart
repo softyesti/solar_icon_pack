@@ -1,6 +1,4 @@
+/// Solar icons which is 7,500+ icons in different styles
+library solar_icon_pack;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'solar_linear_icons.dart' show SolarLinearIcons;
