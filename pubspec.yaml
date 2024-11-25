@@ -4,7 +4,7 @@ description: "Flutter package that provides Solar icons which is 7,500+ icons in
 icon: assets/logo.png
 homepage: https://softyes.com.br
 
-version: 0.2.0
+version: 0.2.1
 
 platforms:
   android:

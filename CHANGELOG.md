@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1
+
+* Fix images
+
 ## 0.2.0
 
 * Add 1,258 bold icons
