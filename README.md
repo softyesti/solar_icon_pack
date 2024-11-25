@@ -9,6 +9,7 @@ Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https
 
 ## Features
 
+* 1,258 bold icons
 * 1,254 linear icons
 
 ## Usage
@@ -38,7 +39,7 @@ class IconWidget extends StatelessWidget {
 
 ## Screenshots
 
-![Example App](assets/screenshots/image.png)
+![Example App](https://github.com/softyesti/solar_icon_pack/raw/main/assets/screenshots/image.png)
 
 ## Credits
 
