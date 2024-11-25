@@ -7,10 +7,38 @@ Made from the [Solar Icons Set (Vol.2)](https://www.figma.com/community/file/139
 
 Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https://www.figma.com/@voidrainbow), the creators of this awesome icon pack!
 
-## Styles
+## Features
 
-* Bold
-* Linear
+* 1,254 linear icons
+
+## Usage
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:solar_icon_pack/solar_icon_pack.dart';
+
+class IconWidget extends StatelessWidget {
+  const IconWidget();
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon( SolarLinearIcons.bell),
+          const SizedBox(height: 8),
+          Text('Linear Bell Icon'),
+        ],
+      ),
+    );
+  }
+}
+```
+
+## Screenshots
+
+![Example App](assets/screenshots/image.png)
 
 ## Credits
 
