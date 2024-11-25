@@ -1,10 +1,18 @@
 name: solar_icon_pack
 description: "Flutter package that provides Solar icons which is 7,500+ icons in 6 different styles."
 
-version: 0.1.0
-
 icon: assets/logo.png
 homepage: https://softyes.com.br
+
+version: 0.1.0
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
   sdk: ^3.5.1
