@@ -1,4 +1,3 @@
-library solar_icon_pack;
 
 /// A Calculator.
 class Calculator {

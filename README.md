@@ -1,39 +1,17 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+<img width="100" height="100" src="assets/logo.png" alt="app logo">
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+# Solar Icon Pack
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+Flutter package that provides Solar icons which is 7,500+ icons in 6 different styles. Made from the [Solar Icons Set (Vol.2)](https://www.figma.com/community/file/1396367368966571051/solar-icons-set-vol-2).
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https://www.figma.com/@voidrainbow), the creators of this awesome icon pack!
 
-## Features
+## Styles
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Bold
+* Linear
 
-## Getting started
+## Credits
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
+* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
